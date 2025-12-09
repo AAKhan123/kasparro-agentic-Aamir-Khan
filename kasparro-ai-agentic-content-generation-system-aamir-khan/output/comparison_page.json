@@ -1,0 +1,26 @@
+{
+  "page_type": "comparison_page",
+  "product_a": {
+    "product_name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": "Oily, Combination",
+    "key_ingredients": "Vitamin C, Hyaluronic Acid",
+    "benefits": "Brightening, Fades dark spots",
+    "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": "₹699"
+  },
+  "product_b": {
+    "name": "RadiantPlus Vitamin C Serum",
+    "key_ingredients": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "benefits": [
+      "Brightening",
+      "Evens Skin Tone"
+    ],
+    "price": "₹799"
+  },
+  "comparison_summary": "GlowBoost Vitamin C Serum contains Vitamin C, Hyaluronic Acid while RadiantPlus Vitamin C Serum contains Vitamin C, Niacinamide. GlowBoost Vitamin C Serum is priced at ₹699, while RadiantPlus Vitamin C Serum costs ₹799."
+}

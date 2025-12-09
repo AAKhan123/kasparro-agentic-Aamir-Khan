@@ -1,0 +1,11 @@
+{
+    "page_type": "product_page",
+    "name": "{{product_name}}",
+    "concentration": "{{concentration}}",
+    "skin_type": "{{skin_type}}",
+    "key_ingredients": "{{key_ingredients}}",
+    "benefits": "{{benefits}}",
+    "how_to_use": "{{how_to_use}}",
+    "side_effects": "{{side_effects}}",
+    "price": "{{price}}"
+}

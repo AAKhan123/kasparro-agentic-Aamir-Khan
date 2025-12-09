@@ -1,0 +1,6 @@
+{
+    "page_type": "comparison_page",
+    "product_a": "{{product_a}}",
+    "product_b": "{{product_b}}",
+    "comparison_summary": "{{comparison_summary}}"
+}
